@@ -7,7 +7,7 @@ Effectuez un _Fork_ de ce répertoire.
 Vous devez fouiller dans l'historique du fichier _index.html_ afin de trouver Harry Potter et sa bande. Un fois trouvé, vous devez effectuer un _revert_ vers cette version du fichier. Si cette étape est réussie, au rafraîchissement de la page, vous devriez avoir une nouvelle liste de membres pour Gryffondor.
 
 ## 2e étape
-Vous devez _merger_ la branche _styles_ dans la branche master. Si cette étape est réussie, au rafraîchissement de la page, l'apparence du bloc Gryffondor devrait avoir changé.
+Vous devez _merger_ la branche _styles_ dans la branche _master_. Si cette étape est réussie, au rafraîchissement de la page, l'apparence du bloc Gryffondor devrait avoir changé.
 
 ## 3e étape
 À partir de la branche _master, recréer un bloque identique à celui de Gryffondor pour créer le bloc Poufsouffle mais avec:
