@@ -4,10 +4,17 @@
 Effectuez un _Fork_ de ce répertoire.
 
 ## 1ère étape
+<<<<<<< HEAD
 Vous devez fouiller dans l'historique du fichier _index.html_ afin de trouver le commit incluant Harry Potter et sa bande. Un fois trouvé, effectuez un ou des _revert(s)_ vers cette version du fichier. Si cette étape est réussie, au rafraîchissement de la page index.html dans votre navigateur, vous devriez avoir une liste de membres différente dans la section Gryffondor.
 
 ## 2e étape
 À partir de GitHub.com, vous devez _merger_ la branche _styles_ dans la branche master via un Pull request. Si cette étape est réussie, après avoir effectué un fetch et un pull via GitHub Desktop, un rafraîchissement de la page index.html dans votre navigateur devrait mettre à jours l'apparence de la section Gryffondor.
+=======
+Vous devez fouiller dans l'historique du fichier _index.html_ afin de trouver Harry Potter et sa bande. Un fois trouvé, vous devez effectuer un _revert_ vers cette version du fichier. Si cette étape est réussie, au rafraîchissement de la page, vous devriez avoir une nouvelle liste de membres pour Gryffondor.
+
+## 2e étape
+Vous devez _merger_ la branche _styles_ dans la branche _master_. Si cette étape est réussie, au rafraîchissement de la page, l'apparence du bloc Gryffondor devrait avoir changé.
+>>>>>>> parent of c423eba... Mise à jours des consignes
 
 ## 3e étape
 À partir de la branche _master, recréer un bloque identique à celui de Gryffondor pour créer le bloc Poufsouffle mais avec:
